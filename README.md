@@ -25,3 +25,14 @@ pip install "uvicorn[standard]"
 
 
 uvicorn main:app --reload
+
+
+![](https://raw.githubusercontent.com/TapendraBaduwal/Email-SMS-Spam-Classifier/master/API.jpg)
+
+
+![](https://raw.githubusercontent.com/TapendraBaduwal/Email-SMS-Spam-Classifier/master/API2.jpg)
+
+
+
+
+
